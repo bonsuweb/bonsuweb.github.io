@@ -86,7 +86,7 @@ export default function ColorsHome() {
 						</Box>
 						<Box style={{ maxWidth: 880 }}>
 							<Text size="5" as="p" mb="6" color="gray">
-								President: Bonjit Manjit Basumatary <br />
+								President: Bonjit Manjil Basumatary <br />
 								General Secretary: Nabajyoti Swargiary
 							</Text>
 						</Box>
