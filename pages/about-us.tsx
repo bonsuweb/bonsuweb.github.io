@@ -84,8 +84,18 @@ export default function ColorsHome() {
 								We are the Bodo National Students' Union (BONSU) - the fearless voice of the Bodo youth and the vanguard of our community's unbroken spirit. Born out of an urgent need to protect our indigenous identity, we officially united on February 7, 2022, in Kokrajhar. We arose because our people's core political aspirations were left unfulfilled by past compromises. Today, we stand as a revolutionary, non-political student movement dedicated to the total socio-economic, cultural, and political liberation of the Bodos.
 							</Text>
 						</Box>
-						
-
+						<Box style={{ maxWidth: 880 }}>
+							<Text size="5" as="p" mb="6" color="gray">
+								President: Bonjit Manjit Basumatary <br />
+								General Secretary: Nabajyoti Swargiary
+							</Text>
+						</Box>
+						<Box style={{ maxWidth: 880 }}>
+							<Text size="5" as="p" mb="6" color="gray">
+								<b>Head Office:</b> <br/>
+								Jangkhrithai Dera, Mijing Nwgwr, <br/>W/No. 5, Kokrajhar, Assam, India - 783370
+							</Text>
+						</Box>
 						<Flex gap="4">
 							<ColorsMarketingButton asChild size={{ initial: "3", xs: "4" }}>
 								<NextLink href="/about-us">

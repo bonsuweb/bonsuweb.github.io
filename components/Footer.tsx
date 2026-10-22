@@ -37,7 +37,8 @@ export const Footer = () => {
 								fontWeight: "inherit",
 							}}
 						>
-							Official website of the Bodo National Students' Union.
+							Official website of the Bodo National Students' Union. <br />
+							Address: Jangkhrithai Dera, Mijing Nwgwr, W/No. 5, Kokrajhar, Assam, India - 783370 
 						</Heading>
 					</Box>
 					<Box mt="5">
